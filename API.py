@@ -3,7 +3,7 @@ import json
 import pprint
 
 
-print("API project made by Chehak Malhotra(2021141), Manik Sharma(2021336) and Manan Chugh(20211335)")
+
 print("No key is needed")
 Url="https://www.thecolorapi.com/id?"
 type=input("Enter type")
